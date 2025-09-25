@@ -1,0 +1,6 @@
+\xpg@aux {}{hebrew}
+\contentsline {chapter}{\numberline {1}מרחבים וקטוריים}{1}{chapter.1}%
+\xpg@aux {}{hebrew}
+\contentsline {section}{\numberline {1.1}סדרות}{1}{section.1.1}%
+\xpg@aux {}{english}
+\xpg@aux {}{hebrew}
